@@ -1,0 +1,49 @@
+*{box-sizing: border-box;}
+
+body{
+  font-family: "Futura";
+  width: 620px;
+}
+
+.header{
+  font-size: 12px;
+  text-align: center;
+  border-top: 1px #000000 solid;
+  border-bottom: 1px #000000 solid;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.header span{
+  color: #c1bfbf;
+  padding-left: 6px;
+}
+
+.navigation li{
+  display: inline-block;
+  vertical-align: middle;
+  background-color: #cd5c5c;
+  color: #FFFFFF;
+  font-size: 14px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-left: 0px;
+  margin-right: 4px;
+  margin-top: 0px;
+  margin-bottom: auto;
+}
+
+.navigation input{
+  font-family: "Futura";
+  font-weight: 100;
+  font-size: 13px;
+  color: #c1bfbf;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px #c1bfbf solid;
+  padding-bottom: 5px;
+  padding-left: 4px;
+}

@@ -1,0 +1,40 @@
+*{box-sizing: border-box;}
+
+body{
+  font-family: "Georgia";
+  font-size: 25px;
+  background-color: #FBF9F2;
+  line-height: 1.25;
+}
+
+#app-container{
+  width: 590px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 140px;
+  margin-right: 100px;
+}
+
+.header h1{
+  font-size: 30px;
+  font-weight: 100;
+}
+
+.header h2{
+  font-size: 50px;
+  font-weight: 100;
+}
+
+.header span{
+  font-family: "Geneva";
+  background-color: #000000;
+  color: #FFFFFF;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+.article span{
+  color: #73AED7;
+}
